@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
-	<Variable Comment="" Name="CompanyName">MadCap Software</Variable>
-	<Variable Comment="" Name="PhoneNumber">858 123 4567</Variable>	
+  <Variable
+    Comment=""
+    Name="CompanyName">MadCap Software</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="testVariable"
+    Comment=""
+    EvaluatedDefinition="This is a test">This is a test</Variable>
 </CatapultVariableSet>
